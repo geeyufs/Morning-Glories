@@ -19,8 +19,9 @@ Keyframes File: ../../../Videos/work/kfs/Kase-san.and.Morning.Glories.2018.1080p
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
-Video Position: 3477
+Scroll Position: 18
+Active Line: 28
+Video Position: 49085
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,6 +44,25 @@ Dialogue: 0,0:09:21.71,0:09:23.21,Default,,0,0,0,,{\pos(1481.85,195.29)}Bus stop
 Dialogue: 0,0:09:21.71,0:09:23.21,Default,,0,0,0,,{\pos(1375.45,360.27)}Nishiko High School{repeat at 17:05}
 Dialogue: 0,0:12:17.80,0:12:19.30,Default,,0,0,0,,{\pos(814,478)}Main Entrance
 Dialogue: 0,0:12:17.80,0:12:19.30,Default,,0,0,0,,{\pos(916,776)}Bicycle Parking
-Dialogue: 0,0:20:47.60,0:20:49.10,Default,,0,0,0,,{\pos(545.25,386.22)}Gas and water bills \Nare due soon. 
+Dialogue: 0,0:20:47.60,0:20:49.10,Default,,0,0,0,,{\pos(545.25,386.22)}Gas and water bills \Nare due soon.
 Dialogue: 0,0:20:47.60,0:20:49.10,Default,,0,0,0,,{\pos(724.84,507.51)}We're out of milk and mayo.
 Dialogue: 0,0:24:38.83,0:24:40.33,Default,,0,0,0,,{\pos(1208,408)} Mom\NMobile
+Dialogue: 0,0:27:35.72,0:27:37.22,Default,,0,0,0,,
+Dialogue: 0,0:30:54.62,0:30:56.12,Default,,0,0,0,,Ryukyu Shisa {appearrs in this bit agian too}
+Dialogue: 0,0:30:30.35,0:30:31.85,Default,,0,0,0,,{\pos(1590,96)}EDIT
+Dialogue: 0,0:31:11.52,0:31:13.02,Default,,0,0,0,,{\pos(1308,244)}SOUVENIRS
+Dialogue: 0,0:31:11.52,0:31:13.02,Default,,0,0,0,,RYUKYU SOUVENIRS
+Dialogue: 0,0:31:19.52,0:31:21.02,Default,,0,0,0,,{\pos(282.41,174.59)}Souvenirs
+Dialogue: 0,0:31:56.14,0:31:57.64,Default,,0,0,0,,{\pos(1108,260)}I'm gonna go check out the baths!
+Dialogue: 0,0:32:00.11,0:32:01.61,Default,,0,0,0,,{\pos(1452,98)}WOMEN
+Dialogue: 0,0:32:08.57,0:32:10.07,Default,,0,0,0,,Kase\NI'll see ya there
+Dialogue: 0,0:33:50.47,0:33:51.97,Default,,0,0,0,,Wanna slip away over free time tomorrow?
+Dialogue: 0,0:34:07.23,0:34:08.73,Default,,0,0,0,,{\pos(1214,410)}I'll see ya there
+Dialogue: 0,0:34:07.23,0:34:08.73,Default,,0,0,0,,{\pos(1068,952)}Wanna slip away over free time tomorrow?
+Dialogue: 0,0:34:07.23,0:34:08.73,Default,,0,0,0,,{\pos(356,242)}read 
+Dialogue: 0,0:34:07.23,0:34:08.73,Default,,0,0,0,,{\pos(674,134)}read 
+Dialogue: 0,0:38:32.75,0:38:34.25,Default,,0,0,0,,SPECIAL SCREENING\N"MELODY"\NWORK PRODUCED IN 1971
+Dialogue: 0,0:37:49.96,0:37:51.46,Default,,0,0,0,,same old sign
+Dialogue: 0,0:40:20.23,0:40:21.73,Default,,0,0,0,,Same old just faded
+Dialogue: 0,0:42:53.30,0:42:54.80,Default,,1,1,0,,{\pos(1152,360)}Name: "Zephyranthes"\NMe and Yamada found it near the shore where we sang.\NBelongs to the Amaryllis family. \NBlooms with white, yellow, and pink flowers.\NAlso known as "Rain Lily" because it blooms after rain.
+Dialogue: 0,0:42:53.30,0:42:54.80,Default,,1,1,0,,{\pos(912,1068)}RUNNER - AUTUMN SPECIAL EDITION\NEVERYTHING YOU NEED TO EXCEL ON THE TRACK\NINCLUDES TRAINING PLANS FROM PROFESSIONALS IN THE FIELD
